@@ -1,0 +1,1 @@
+This is just so that git would recognize this folder, please use this folder to put all the assets you have made 
